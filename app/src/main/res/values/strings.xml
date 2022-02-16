@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FirstSettings</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="my_data_header">Mis datos</string>
+    <string name="options_header">Opciones</string>
+
+
+    <string name="activar_sonido">Activar sonido</string>
+    <string name="descripcion_activar_sonido_on">Sonido activo</string>
+    <string name="descripcion_activar_sonido_off">Sonido inactivo</string>
+
+    <string name="correo_electronico">Email</string>
+    <string name="descripcion_correo">Aquí se guardará el correo electrónico</string>
+    <string name="texto_cuadro_correo">Introduce aquí tu email</string>
+
+    <string name="sexo">Sexo</string>
+    <string name="descripcion_sexo">Introduce el sexo</string>
+
+    <string name="aficiones">Aficiones</string>
+    <string name="descripcion_aficiones">Aquí se guardarán sus aficiones</string>
+
+    <string name="activar_notificaciones">Activar notificaciones</string>
+    <string name="descripcion_activar_notificaciones">Aquí se indicará si se activan las notificaciones</string>
+</resources>
